@@ -33,7 +33,6 @@ https://gist.github.com/mrmcpowned/13c3b90c4ab6f5da7edb
 }
 .custom .trigger.left{
     float: left;
-    background-position:0 0;
 }
 .custom .trigger.right{
     float: right;
